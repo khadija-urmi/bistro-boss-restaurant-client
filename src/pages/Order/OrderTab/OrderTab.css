@@ -1,17 +1,17 @@
-/* Add this to your CSS or Tailwind file */
+
 .mySwiper .swiper-pagination {
     margin-top: 20px;
     position: absolute;
     bottom: 10px;
     width: 100%;
     text-align: center;
-    color: black; /* Customize the color of the page number */
+    color: black; 
 }
 
 .mySwiper .swiper-pagination-bullet {
-    background: rgba(3, 10, 102, 0.377); /* Light bullet color */
+    background: rgba(3, 10, 102, 0.377); 
 }
 
 .mySwiper .swiper-pagination-bullet-active {
-    background: #ff6347; /* Active page bullet color */
+    background: #ff6347; 
 }
